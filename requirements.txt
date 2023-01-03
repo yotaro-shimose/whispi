@@ -1,0 +1,4 @@
+numpy
+whisper
+typing_extensions
+torch
