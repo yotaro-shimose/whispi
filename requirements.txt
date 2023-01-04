@@ -2,3 +2,7 @@ numpy
 whisper
 typing_extensions
 torch
+fastapi
+uvicorn
+python-multipart
+uuid
